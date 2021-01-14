@@ -1,7 +1,7 @@
 ![](bearwave.gif)
-### Well, Hello There! ✌️ 
+# Well, Hello There! ✌️ 
 
-My name is Jaimy, welcome to my profile!
+###My name is Jaimy, welcome to my profile!
 
 📚 Currently Studying Software Development
 
