@@ -7,5 +7,5 @@ My name is Jaimy, welcome to my profile!
 
 🌐 I'm using GitHub primarily as a portfolio
 
-🐒 Fun fact: Monkeys are badass
+🐒 Fun fact: Monkeys are my favorite animals
 
