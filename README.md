@@ -1,6 +1,4 @@
-### Hi there 👋
-
-# Well, Hello There! :wave:
+### Well, Hello There! :wave:
 
 My name is Jaimy, welcome to my profile!
 
