@@ -1,4 +1,4 @@
-### Well, Hello There! :wave:
+### Well, Hello There! :wave: ![](bearwave.gif)
 
 My name is Jaimy, welcome to my profile!
 
